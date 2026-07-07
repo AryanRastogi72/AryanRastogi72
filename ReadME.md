@@ -1,6 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2E9EF7&height=220&section=header&text=Aryan%20Rastogi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Exploring%20the%20full%20stack%20of%20engineering%20—%20from%20silicon%20to%20software&descAlignY=55&descSize=18"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2E9EF7&height=220&section=header&text=Aryan%20Rastogi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Exploring%20the%20full%20stack%20of%20engineering%20—%20from%20silicon%20to%20software&descAlignY=55&descSize=18">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E0F7FA,50:B3E5FC,100:2E9EF7&height=220&section=header&text=Aryan%20Rastogi&fontSize=60&fontColor=0F2027&animation=fadeIn&fontAlignY=38&desc=Exploring%20the%20full%20stack%20of%20engineering%20—%20from%20silicon%20to%20software&descAlignY=55&descSize=18&descColor=0F2027">
+  <img width="100%" alt="Aryan Rastogi banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2E9EF7&height=220&section=header&text=Aryan%20Rastogi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Exploring%20the%20full%20stack%20of%20engineering%20—%20from%20silicon%20to%20software&descAlignY=55&descSize=18">
+</picture>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=2E9EF7&center=true&vCenter=true&width=700&lines=Building+across+hardware%2C+web%2C+and+AI;FPGA+design+%E2%86%92+full-stack+apps+%E2%86%92+AI+agents;Currently+interning+at+LTTS%2C+Bengaluru" alt="Typing SVG" />
 
@@ -31,6 +35,8 @@
 I like understanding what's happening beneath the abstraction layer — a REST API call, a database transaction, a clock cycle inside an FPGA. That curiosity has taken me across **digital hardware design**, **full-stack web development**, and **multi-agent AI systems** — and I haven't picked a lane yet, on purpose. Each project below reflects a different thing I was trying to learn at the time.
 
 > 🔭 **Currently:** Summer Intern @ **L&T Technology Services (LTTS)**, Bengaluru — building a stock price prediction system comparing traditional ML and deep learning models on real NSE market data.
+>
+> 💡 **Now:** Open to internships and collaborations in embedded systems, full-stack development, or applied ML — feel free to reach out.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:0F2027&height=3"/>
 
@@ -114,6 +120,14 @@ Multi-agent system using a Map-Reduce workflow to coordinate real-time flight an
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:0F2027&height=3"/>
 
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AryanRastogi72&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:0F2027&height=3"/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -141,6 +155,10 @@ Multi-agent system using a Map-Reduce workflow to coordinate real-time flight an
 <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42"/>
 </a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,50:2C5364,100:0F2027&height=100&section=footer"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,50:2C5364,100:0F2027&height=100&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,50:B3E5FC,100:E0F7FA&height=100&section=footer">
+  <img width="100%" alt="footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,50:2C5364,100:0F2027&height=100&section=footer">
+</picture>
 
 </div>
