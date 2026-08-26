@@ -1,134 +1,128 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2E9EF7&height=220&section=header&text=Aryan%20Rastogi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Exploring%20the%20full%20stack%20of%20engineering%20—%20from%20silicon%20to%20software&descAlignY=55&descSize=18">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E0F7FA,50:B3E5FC,100:2E9EF7&height=220&section=header&text=Aryan%20Rastogi&fontSize=60&fontColor=0F2027&animation=fadeIn&fontAlignY=38&desc=Exploring%20the%20full%20stack%20of%20engineering%20—%20from%20silicon%20to%20software&descAlignY=55&descSize=18&descColor=0F2027">
-  <img width="100%" alt="Aryan Rastogi banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2E9EF7&height=220&section=header&text=Aryan%20Rastogi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Exploring%20the%20full%20stack%20of%20engineering%20—%20from%20silicon%20to%20software&descAlignY=55&descSize=18">
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2E9EF7&height=200&section=header&text=Aryan%20Rastogi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Electrical%20%26%20Computer%20Engineering%20%7C%20Hardware%20to%20Full-Stack%20to%20Applied%20ML&descAlignY=62&descSize=16"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=2E9EF7&center=true&vCenter=true&width=700&lines=Building+across+hardware%2C+web%2C+and+AI;FPGA+design+%E2%86%92+full-stack+apps+%E2%86%92+AI+agents;Currently+interning+at+LTTS%2C+Bengaluru" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://www.linkedin.com/in/aryan-rastogi-742109382/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42"/>
-</a>
-&nbsp;
-<a href="mailto:ar323@snu.edu.in">
-<img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42"/>
-</a>
-&nbsp;
-<a href="https://github.com/AryanRastogi72">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="42"/>
-</a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=AryanRastogi72&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS)
+<a href="https://www.linkedin.com/in/aryan-rastogi-742109382/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36"/></a>
+<a href="https://github.com/AryanRastogi72"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="36"/></a>
+<a href="mailto:ar323@snu.edu.in"><img src="https://img.shields.io/badge/College%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="36"/></a>
+<a href="mailto:rastogiaryan2005@gmail.com"><img src="https://img.shields.io/badge/Personal%20Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white" height="36"/></a>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:0F2027&height=3"/>
+---
 
-## 🧭 About Me
+## About Me
 
-I like understanding what's happening beneath the abstraction layer — a REST API call, a database transaction, a clock cycle inside an FPGA. That curiosity has taken me across **digital hardware design**, **full-stack web development**, and **multi-agent AI systems** — and I haven't picked a lane yet, on purpose. Each project below reflects a different thing I was trying to learn at the time.
+I'm an Electrical and Computer Engineering student at Shiv Nadar University who works across the stack in the literal sense — from FPGA-level digital design up through backend systems and applied machine learning. I like understanding what's actually happening beneath the abstraction layer, whether that's a clock cycle inside an FPGA, a database transaction, or a REST API call.
 
-> 🔭 **Currently:** Summer Intern @ **L&T Technology Services (LTTS)**, Bengaluru — building a stock price prediction system comparing traditional ML and deep learning models on real NSE market data.
->
-> 💡 **Now:** Open to internships and collaborations in embedded systems, full-stack development, or applied ML — feel free to reach out.
+I haven't committed to a single specialization yet, and that's intentional — every project below reflects a different thing I set out to learn at the time, spanning hardware, full-stack web development, and AI systems.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:0F2027&height=3"/>
+---
 
-## 🚀 Featured Projects
+## Technical Skills
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Languages**
+Python · C++ · C · Verilog · Java · JavaScript · Kotlin · MATLAB
 
-### 🎓 SARMS
-**University ERP System**
+**Frameworks & Libraries**
+React 19 · Node.js · Express · Spring Boot 3 · Flask · Tailwind CSS · LangGraph
 
-Full-stack ERP with three role-based portals for Students, Faculty, and Admin. JWT-based stateless auth with route guards, automated SGPA computation, and semester promotion logic.
+**Databases**
+MySQL · MongoDB · SQLite
 
-`React 19` `Spring Boot 3` `MongoDB` `JWT` `Tailwind`
+**Hardware & Digital Design**
+Xilinx Vivado · FPGA (Artix-7)
 
-👥 Team Project · 4 Contributors
-**[→ View Repository](https://github.com/top-of-the-code/SARMS)**
+**Tools**
+Git
 
-</td>
-<td width="50%" valign="top">
+**AI / ML — currently building with**
+FastAPI · Docker · Streamlit · PyTorch · scikit-learn
 
-### 🔬 FSM-Based RFFT
-**Spectrum Analyzer**
+---
 
-Real-time N=16 FFT spectrum analyzer in Verilog on a Xilinx Artix-7 FPGA. FSM-driven datapath, Q1.15 fixed-point math, live VGA bar-graph at 640×480 @ 60Hz.
+## Experience
 
-`Verilog` `Xilinx Vivado` `Artix-7`
+### Summer Intern — L&T Technology Services (LTTS), Bengaluru
+**June 22, 2026 – August 14, 2026**
 
-👥 Team Project · 4 Contributors
-**[→ View Repository](https://github.com/aniket-s007/FSM_based_RFFT)**
+Built a comparative stock price prediction system evaluating multiple traditional ML and deep learning algorithms — including Random Forest and LSTM — on real NSE market data. Deployed the system with FastAPI for the backend, Streamlit for the interface, and Docker for containerization.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🏦 RANS Bank
-**Online Banking Management System**
+## Education
 
-Full-featured banking platform with role-based access. MySQL stored procedures handle loan lifecycles and EMI schedules, with row-level locking to prevent race conditions.
+**B.Tech, Electrical and Computer Engineering**
+Shiv Nadar University, Greater Noida
+Expected Graduation: May 2027
 
-`Python` `Flask` `MySQL` `Jinja2`
+---
 
-👥 Team Project · 4 Contributors
-**[→ View Repository](https://github.com/RaghavGarg3594/Online_Banking_Management_System)**
+## Featured Projects
 
-</td>
-<td width="50%" valign="top">
+### 🎓 SARMS — University ERP System
 
-### ✈️ AI Travel Planner
-**Multi-Agent System**
+**What it does:** A full-stack university ERP with three role-based portals — Student, Faculty, and Admin — covering authentication, academic records, and semester progression.
 
-Multi-agent system using a Map-Reduce workflow to coordinate real-time flight and hotel data across 5+ API endpoints, generating dynamic itineraries and pricing.
+**Problem it solves:** Replaces fragmented, manual academic administration (grading, SGPA computation, semester promotion) with a single role-aware system.
 
-`Python` `LangGraph` `Amadeus API` `OpenAI API`
+**My contribution:** Built collaboratively with 3 teammates — I worked across the stack alongside the team on both frontend and backend, rather than owning a single isolated module.
 
-**[→ View Repository](https://github.com/AryanRastogi72/Multi_Agent_AI_Travel_Planner)**
+**Tech stack:** React 19 · Spring Boot 3 · MongoDB · JWT · Tailwind CSS
 
-</td>
-</tr>
-</table>
+**Links:** [Repository](https://github.com/top-of-the-code/SARMS)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:0F2027&height=3"/>
+---
 
-## 🛠️ Tools I Work With
+### 🔬 FSM-Based RFFT Spectrum Analyzer
 
-<div align="center">
+**What it does:** A real-time N=16 FFT spectrum analyzer implemented entirely in Verilog on a Xilinx Artix-7 FPGA, with a live VGA bar-graph display at 640×480 @ 60Hz.
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,kotlin,matlab&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,flask,tailwind&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,git&theme=dark" />
+**Problem it solves:** Demonstrates real-time frequency-domain signal analysis on bare FPGA hardware — an FSM-driven datapath computing an FFT using Q1.15 fixed-point arithmetic, without relying on a soft processor or vendor DSP IP core.
 
-**Picking up right now:**
+**My contribution:** Built collaboratively with 3 teammates on the FSM datapath design, fixed-point arithmetic implementation, and VGA output logic; synthesized and deployed on a Digilent Nexys 4.
 
-<img src="https://skillicons.dev/icons?i=fastapi,docker,pytorch,sklearn&theme=dark" />
+**Tech stack:** Verilog · Xilinx Vivado · FPGA (Artix-7)
 
-*(+ Streamlit)*
+**Links:** [Repository](https://github.com/aniket-s007/FSM_based_RFFT)
 
-</div>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:0F2027&height=3"/>
+### 🏦 RANS Bank — Online Banking Management System
 
-## 🏆 Trophies
+**What it does:** A full-featured banking platform with distinct role-based access for Customers, Staff, and Admins, covering account management, loans, and fund transfers.
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AryanRastogi72&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
-</div>
+**Problem it solves:** Handles loan lifecycles and EMI schedules through MySQL stored procedures, with row-level locking to prevent race conditions during concurrent fund transfers.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:0F2027&height=3"/>
+**My contribution:** Built collaboratively with 3 teammates across the application and database layers.
 
-## 📊 GitHub Stats
+**Tech stack:** Python · Flask · MySQL · Jinja2
+
+**Links:** [Repository](https://github.com/RaghavGarg3594/Online_Banking_Management_System)
+
+---
+
+### ✈️ Multi-Agent AI Travel Planner
+
+**What it does:** A multi-agent AI system that coordinates real-time flight and hotel data across 5+ API endpoints and generates dynamic itinerary and pricing recommendations.
+
+**Problem it solves:** Automates the manual, multi-source research process of trip planning by using a Map-Reduce agent workflow to gather and reconcile data from the Amadeus and OpenAI APIs in parallel.
+
+**My contribution:** Solo project — designed and built end-to-end, including the agent workflow, API integrations, and data layer.
+
+**Tech stack:** Python · LangGraph · Amadeus API · OpenAI API · SQLite
+
+**Links:** [Repository](https://github.com/AryanRastogi72)
+
+---
+
+## Current Focus
+
+Wrapping up my LTTS internship and continuing to build across both hardware (FPGA/digital design) and software (full-stack, applied ML) rather than narrowing early. Open to internship and collaboration opportunities in embedded systems, full-stack development, or applied ML.
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
@@ -137,28 +131,14 @@ Multi-agent system using a Map-Reduce workflow to coordinate real-time flight an
 
 <img src="https://streak-stats.demolab.com/?user=AryanRastogi72&theme=radical&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=2E9EF7" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanRastogi72&theme=react-dark&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=ffffff&hide_border=true" width="100%"/>
-
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:0F2027&height=3"/>
+---
 
 <div align="center">
 
-### 📫 Let's Connect
+**Let's connect** — [LinkedIn](https://www.linkedin.com/in/aryan-rastogi-742109382/) · [GitHub](https://github.com/AryanRastogi72) · [College Email](mailto:ar323@snu.edu.in) · [Personal Email](mailto:rastogiaryan2005@gmail.com)
 
-<a href="https://www.linkedin.com/in/aryan-rastogi-742109382/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42"/>
-</a>
-&nbsp;
-<a href="mailto:ar323@snu.edu.in">
-<img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42"/>
-</a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,50:2C5364,100:0F2027&height=100&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,50:B3E5FC,100:E0F7FA&height=100&section=footer">
-  <img width="100%" alt="footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,50:2C5364,100:0F2027&height=100&section=footer">
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,50:2C5364,100:0F2027&height=90&section=footer"/>
 
 </div>
