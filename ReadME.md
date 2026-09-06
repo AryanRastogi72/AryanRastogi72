@@ -112,7 +112,7 @@ Expected Graduation: May 2027
 
 **Tech stack:** Python · LangGraph · Amadeus API · OpenAI API · SQLite
 
-**Links:** [Repository](https://github.com/AryanRastogi72)
+**Links:** [Repository](https://github.com/AryanRastogi72/Multi_Agent_AI_Travel_Planner)
 
 ---
 
