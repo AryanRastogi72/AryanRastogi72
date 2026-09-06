@@ -1,67 +1,41 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2E9EF7&height=200&section=header&text=Aryan%20Rastogi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Electrical%20%26%20Computer%20Engineering%20%7C%20Hardware%20to%20Full-Stack%20to%20Applied%20ML&descAlignY=62&descSize=16"/>
+# Aryan Rastogi
 
-<a href="https://www.linkedin.com/in/aryan-rastogi-742109382/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36"/></a>
-<a href="https://github.com/AryanRastogi72"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="36"/></a>
-<a href="mailto:ar323@snu.edu.in"><img src="https://img.shields.io/badge/College%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="36"/></a>
-<a href="mailto:rastogiaryan2005@gmail.com"><img src="https://img.shields.io/badge/Personal%20Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white" height="36"/></a>
+**Electrical & Computer Engineering | Hardware to Full-Stack to Applied ML**
+
+🔗 [LinkedIn](https://www.linkedin.com/in/aryan-rastogi-742109382/) &nbsp;·&nbsp; 💻 [GitHub](https://github.com/AryanRastogi72) &nbsp;·&nbsp; ✉️ [College Email](mailto:ar323@snu.edu.in) &nbsp;·&nbsp; ✉️ [Personal Email](mailto:rastogiaryan2005@gmail.com)
 
 </div>
 
-<br/>
+---
 
 > I'm an Electrical and Computer Engineering student at Shiv Nadar University who works across the stack in the literal sense — from FPGA-level digital design up through backend systems and applied machine learning. I like understanding what's actually happening beneath the abstraction layer, whether that's a clock cycle inside an FPGA, a database transaction, or a REST API call.
 >
 > I haven't committed to a single specialization yet, and that's intentional — every project below reflects a different thing I set out to learn at the time, spanning hardware, full-stack web development, and AI systems.
 
-<br/>
+---
 
 ## 🧩 Technical Skills
 
-<table width="100%">
-<tr><td width="160"><b>Languages</b></td><td>
+**Languages:** Python · C++ · C · Verilog · Java · JavaScript · Kotlin · MATLAB
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,kotlin,matlab&theme=dark"/>
+**Frameworks & Libraries:** React 19 · Node.js · Express · Spring Boot 3 · Flask · Tailwind CSS · LangGraph
 
-</td></tr>
-<tr><td><b>Frameworks & Libraries</b></td><td>
+**Databases:** MySQL · MongoDB · SQLite
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,flask,tailwind&theme=dark"/> &nbsp; `LangGraph`
+**Hardware & Digital Design:** Xilinx Vivado · FPGA (Artix-7)
 
-</td></tr>
-<tr><td><b>Databases</b></td><td>
+**Tools:** Git
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark"/>
+**AI / ML — currently building with:** FastAPI · Docker · Streamlit · PyTorch · scikit-learn
 
-</td></tr>
-<tr><td><b>Hardware & Digital Design</b></td><td>
-
-`Xilinx Vivado` &nbsp; `FPGA (Artix-7)`
-
-</td></tr>
-<tr><td><b>Tools</b></td><td>
-
-<img src="https://skillicons.dev/icons?i=git&theme=dark"/>
-
-</td></tr>
-<tr><td><b>AI / ML — currently building with</b></td><td>
-
-<img src="https://skillicons.dev/icons?i=fastapi,docker,pytorch,sklearn&theme=dark"/> &nbsp; `Streamlit`
-
-</td></tr>
-</table>
-
-<br/>
+---
 
 ## 💼 Experience & Education
 
-<table width="100%">
-<tr>
-<td width="28%" valign="top"><b>Jun 2026 – Aug 2026</b><br/><sub>Bengaluru</sub></td>
-<td width="72%" valign="top">
-
-**Summer Intern — L&T Technology Services (LTTS)**
+**Summer Intern — L&T Technology Services (LTTS), Bengaluru**
+*June 22, 2026 – August 14, 2026*
 
 Engineered an end-to-end stock prediction system evaluating 12 model variants (Random Forest, XGBoost, LSTM) across regression and classification tasks, trained on 15 years of daily NSE market data (3,698 records, 2011–2026). Deployed via a FastAPI backend, Streamlit interface, and Docker containerization.
 
@@ -69,21 +43,10 @@ Engineered an end-to-end stock prediction system evaluating 12 model variants (R
 - Built a 3-class trend classifier (Up/Down/Flat, ±0.5% threshold) with a tuned XGBoost model reaching **37.30% accuracy**, outperforming the 31.69% majority-class baseline in a historically hard prediction setting.
 - Built a real-time inference pipeline pulling 6 months of live Yahoo Finance data, computing technical indicators (MACD, RSI, Bollinger Bands), and returning predictions via REST API in milliseconds using pre-serialized `.joblib`/`.pt` model weights.
 
-</td>
-</tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td width="28%" valign="top"><b>Expected May 2027</b><br/><sub>Greater Noida</sub></td>
-<td width="72%" valign="top">
-
 **B.Tech, Electrical and Computer Engineering**
-Shiv Nadar University
+*Shiv Nadar University, Greater Noida — Expected May 2027*
 
-</td>
-</tr>
-</table>
-
-<br/>
+---
 
 ## 🚀 Featured Projects
 
@@ -95,7 +58,7 @@ A full-stack university ERP with three role-based portals — Student, Faculty, 
 
 **Contribution:** Built collaboratively with 3 teammates — worked across the stack alongside the team on both frontend and backend, rather than owning a single isolated module.
 
-![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+**Stack:** React 19 · Spring Boot 3 · MongoDB · JWT · Tailwind CSS
 
 **[→ View Repository](https://github.com/top-of-the-code/SARMS)**
 
@@ -109,7 +72,7 @@ A real-time N=16 FFT spectrum analyzer implemented entirely in Verilog on a Xili
 
 **Contribution:** Built collaboratively with 3 teammates on the FSM datapath design, fixed-point arithmetic implementation, and VGA output logic; synthesized and deployed on a Digilent Nexys 4.
 
-![Verilog](https://img.shields.io/badge/Verilog-1E1E1E?style=flat-square) ![Vivado](https://img.shields.io/badge/Xilinx_Vivado-E31937?style=flat-square) ![FPGA](https://img.shields.io/badge/FPGA_(Artix--7)-8A2BE2?style=flat-square)
+**Stack:** Verilog · Xilinx Vivado · FPGA (Artix-7)
 
 **[→ View Repository](https://github.com/aniket-s007/FSM_based_RFFT)**
 
@@ -123,7 +86,7 @@ A full-featured banking platform with distinct role-based access for Customers, 
 
 **Contribution:** Built collaboratively with 3 teammates across the application and database layers.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white)
+**Stack:** Python · Flask · MySQL · Jinja2
 
 **[→ View Repository](https://github.com/RaghavGarg3594/Online_Banking_Management_System)**
 
@@ -137,21 +100,21 @@ A multi-agent AI system that coordinates real-time flight and hotel data across 
 
 **Contribution:** Solo project — designed and built end-to-end, including the agent workflow, API integrations, and data layer.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![Amadeus](https://img.shields.io/badge/Amadeus_API-00205B?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+**Stack:** Python · LangGraph · Amadeus API · OpenAI API · SQLite
 
 **[→ View Repository](https://github.com/AryanRastogi72/Multi_Agent_AI_Travel_Planner)**
 
 </details>
 
-<br/>
+---
 
 ## 🎯 Current Focus
 
 Wrapping up my LTTS internship and continuing to build across both hardware (FPGA/digital design) and software (full-stack, applied ML) rather than narrowing early. Open to internship and collaboration opportunities in embedded systems, full-stack development, or applied ML.
 
-<br/>
+---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -163,24 +126,14 @@ Wrapping up my LTTS internship and continuing to build across both hardware (FPG
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AryanRastogi72&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&count_private=true&cache_seconds=1800" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanRastogi72&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&cache_seconds=1800" height="165" />
-
-<img src="https://streak-stats.demolab.com/?user=AryanRastogi72&theme=radical&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=2E9EF7" />
+<img src="https://streak-stats.demolab.com/?user=AryanRastogi72&theme=radical&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=2E9EF7" alt="GitHub Streak" />
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-**Let's connect**
-
-<a href="https://www.linkedin.com/in/aryan-rastogi-742109382/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36"/></a>
-<a href="https://github.com/AryanRastogi72"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="36"/></a>
-<a href="mailto:ar323@snu.edu.in"><img src="https://img.shields.io/badge/College%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="36"/></a>
-<a href="mailto:rastogiaryan2005@gmail.com"><img src="https://img.shields.io/badge/Personal%20Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white" height="36"/></a>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,50:2C5364,100:0F2027&height=90&section=footer"/>
+**Let's connect** — [LinkedIn](https://www.linkedin.com/in/aryan-rastogi-742109382/) · [GitHub](https://github.com/AryanRastogi72) · [College Email](mailto:ar323@snu.edu.in) · [Personal Email](mailto:rastogiaryan2005@gmail.com)
 
 </div>
