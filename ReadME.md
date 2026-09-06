@@ -9,135 +9,177 @@
 
 </div>
 
----
+<br/>
 
-## About Me
+> I'm an Electrical and Computer Engineering student at Shiv Nadar University who works across the stack in the literal sense — from FPGA-level digital design up through backend systems and applied machine learning. I like understanding what's actually happening beneath the abstraction layer, whether that's a clock cycle inside an FPGA, a database transaction, or a REST API call.
+>
+> I haven't committed to a single specialization yet, and that's intentional — every project below reflects a different thing I set out to learn at the time, spanning hardware, full-stack web development, and AI systems.
 
-I'm an Electrical and Computer Engineering student at Shiv Nadar University who works across the stack in the literal sense — from FPGA-level digital design up through backend systems and applied machine learning. I like understanding what's actually happening beneath the abstraction layer, whether that's a clock cycle inside an FPGA, a database transaction, or a REST API call.
+<br/>
 
-I haven't committed to a single specialization yet, and that's intentional — every project below reflects a different thing I set out to learn at the time, spanning hardware, full-stack web development, and AI systems.
+## 🧩 Technical Skills
 
----
+<table width="100%">
+<tr><td width="160"><b>Languages</b></td><td>
 
-## Technical Skills
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,kotlin,matlab&theme=dark"/>
 
-**Languages**
-Python · C++ · C · Verilog · Java · JavaScript · Kotlin · MATLAB
+</td></tr>
+<tr><td><b>Frameworks & Libraries</b></td><td>
 
-**Frameworks & Libraries**
-React 19 · Node.js · Express · Spring Boot 3 · Flask · Tailwind CSS · LangGraph
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,flask,tailwind&theme=dark"/> &nbsp; `LangGraph`
 
-**Databases**
-MySQL · MongoDB · SQLite
+</td></tr>
+<tr><td><b>Databases</b></td><td>
 
-**Hardware & Digital Design**
-Xilinx Vivado · FPGA (Artix-7)
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark"/>
 
-**Tools**
-Git
+</td></tr>
+<tr><td><b>Hardware & Digital Design</b></td><td>
 
-**AI / ML — currently building with**
-FastAPI · Docker · Streamlit · PyTorch · scikit-learn
+`Xilinx Vivado` &nbsp; `FPGA (Artix-7)`
 
----
+</td></tr>
+<tr><td><b>Tools</b></td><td>
 
-## Experience
+<img src="https://skillicons.dev/icons?i=git&theme=dark"/>
 
-### Summer Intern — L&T Technology Services (LTTS), Bengaluru
-**June 22, 2026 – August 14, 2026**
+</td></tr>
+<tr><td><b>AI / ML — currently building with</b></td><td>
 
-Built a comparative stock price prediction system evaluating multiple traditional ML and deep learning algorithms — including Random Forest and LSTM — on real NSE market data. Deployed the system with FastAPI for the backend, Streamlit for the interface, and Docker for containerization.
+<img src="https://skillicons.dev/icons?i=fastapi,docker,pytorch,sklearn&theme=dark"/> &nbsp; `Streamlit`
 
----
+</td></tr>
+</table>
 
-## Education
+<br/>
+
+## 💼 Experience & Education
+
+<table width="100%">
+<tr>
+<td width="28%" valign="top"><b>Jun 2026 – Aug 2026</b><br/><sub>Bengaluru</sub></td>
+<td width="72%" valign="top">
+
+**Summer Intern — L&T Technology Services (LTTS)**
+
+Engineered an end-to-end stock prediction system evaluating 12 model variants (Random Forest, XGBoost, LSTM) across regression and classification tasks, trained on 15 years of daily NSE market data (3,698 records, 2011–2026). Deployed via a FastAPI backend, Streamlit interface, and Docker containerization.
+
+- Achieved an **R² of 0.975** and **RMSE of 57.11** for 1-day-ahead price forecasting with a hyperparameter-tuned LSTM network — against a test-period price range of ₹2,529–₹4,375.
+- Built a 3-class trend classifier (Up/Down/Flat, ±0.5% threshold) with a tuned XGBoost model reaching **37.30% accuracy**, outperforming the 31.69% majority-class baseline in a historically hard prediction setting.
+- Built a real-time inference pipeline pulling 6 months of live Yahoo Finance data, computing technical indicators (MACD, RSI, Bollinger Bands), and returning predictions via REST API in milliseconds using pre-serialized `.joblib`/`.pt` model weights.
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="28%" valign="top"><b>Expected May 2027</b><br/><sub>Greater Noida</sub></td>
+<td width="72%" valign="top">
 
 **B.Tech, Electrical and Computer Engineering**
-Shiv Nadar University, Greater Noida
-Expected Graduation: May 2027
+Shiv Nadar University
 
----
+</td>
+</tr>
+</table>
 
-## Featured Projects
+<br/>
 
-### 🎓 SARMS — University ERP System
+## 🚀 Featured Projects
 
-**What it does:** A full-stack university ERP with three role-based portals — Student, Faculty, and Admin — covering authentication, academic records, and semester progression.
+<details open>
+<summary><b>🎓 SARMS — University ERP System</b></summary>
+<br/>
 
-**Problem it solves:** Replaces fragmented, manual academic administration (grading, SGPA computation, semester promotion) with a single role-aware system.
+A full-stack university ERP with three role-based portals — Student, Faculty, and Admin — covering authentication, academic records, and semester progression. Replaces fragmented, manual academic administration (grading, SGPA computation, semester promotion) with a single role-aware system.
 
-**My contribution:** Built collaboratively with 3 teammates — I worked across the stack alongside the team on both frontend and backend, rather than owning a single isolated module.
+**Contribution:** Built collaboratively with 3 teammates — worked across the stack alongside the team on both frontend and backend, rather than owning a single isolated module.
 
-**Tech stack:** React 19 · Spring Boot 3 · MongoDB · JWT · Tailwind CSS
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Links:** [Repository](https://github.com/top-of-the-code/SARMS)
+**[→ View Repository](https://github.com/top-of-the-code/SARMS)**
 
----
+</details>
 
-### 🔬 FSM-Based RFFT Spectrum Analyzer
+<details>
+<summary><b>🔬 FSM-Based RFFT Spectrum Analyzer</b></summary>
+<br/>
 
-**What it does:** A real-time N=16 FFT spectrum analyzer implemented entirely in Verilog on a Xilinx Artix-7 FPGA, with a live VGA bar-graph display at 640×480 @ 60Hz.
+A real-time N=16 FFT spectrum analyzer implemented entirely in Verilog on a Xilinx Artix-7 FPGA, with a live VGA bar-graph display at 640×480 @ 60Hz. Demonstrates real-time frequency-domain signal analysis on bare FPGA hardware — an FSM-driven datapath computing an FFT using Q1.15 fixed-point arithmetic, without relying on a soft processor or vendor DSP IP core.
 
-**Problem it solves:** Demonstrates real-time frequency-domain signal analysis on bare FPGA hardware — an FSM-driven datapath computing an FFT using Q1.15 fixed-point arithmetic, without relying on a soft processor or vendor DSP IP core.
+**Contribution:** Built collaboratively with 3 teammates on the FSM datapath design, fixed-point arithmetic implementation, and VGA output logic; synthesized and deployed on a Digilent Nexys 4.
 
-**My contribution:** Built collaboratively with 3 teammates on the FSM datapath design, fixed-point arithmetic implementation, and VGA output logic; synthesized and deployed on a Digilent Nexys 4.
+![Verilog](https://img.shields.io/badge/Verilog-1E1E1E?style=flat-square) ![Vivado](https://img.shields.io/badge/Xilinx_Vivado-E31937?style=flat-square) ![FPGA](https://img.shields.io/badge/FPGA_(Artix--7)-8A2BE2?style=flat-square)
 
-**Tech stack:** Verilog · Xilinx Vivado · FPGA (Artix-7)
+**[→ View Repository](https://github.com/aniket-s007/FSM_based_RFFT)**
 
-**Links:** [Repository](https://github.com/aniket-s007/FSM_based_RFFT)
+</details>
 
----
+<details>
+<summary><b>🏦 RANS Bank — Online Banking Management System</b></summary>
+<br/>
 
-### 🏦 RANS Bank — Online Banking Management System
+A full-featured banking platform with distinct role-based access for Customers, Staff, and Admins, covering account management, loans, and fund transfers. Handles loan lifecycles and EMI schedules through MySQL stored procedures, with row-level locking to prevent race conditions during concurrent fund transfers.
 
-**What it does:** A full-featured banking platform with distinct role-based access for Customers, Staff, and Admins, covering account management, loans, and fund transfers.
+**Contribution:** Built collaboratively with 3 teammates across the application and database layers.
 
-**Problem it solves:** Handles loan lifecycles and EMI schedules through MySQL stored procedures, with row-level locking to prevent race conditions during concurrent fund transfers.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white)
 
-**My contribution:** Built collaboratively with 3 teammates across the application and database layers.
+**[→ View Repository](https://github.com/RaghavGarg3594/Online_Banking_Management_System)**
 
-**Tech stack:** Python · Flask · MySQL · Jinja2
+</details>
 
-**Links:** [Repository](https://github.com/RaghavGarg3594/Online_Banking_Management_System)
+<details>
+<summary><b>✈️ Multi-Agent AI Travel Planner</b></summary>
+<br/>
 
----
+A multi-agent AI system that coordinates real-time flight and hotel data across 5+ API endpoints and generates dynamic itinerary and pricing recommendations. Automates the manual, multi-source research process of trip planning by using a Map-Reduce agent workflow to gather and reconcile data from the Amadeus and OpenAI APIs in parallel.
 
-### ✈️ Multi-Agent AI Travel Planner
+**Contribution:** Solo project — designed and built end-to-end, including the agent workflow, API integrations, and data layer.
 
-**What it does:** A multi-agent AI system that coordinates real-time flight and hotel data across 5+ API endpoints and generates dynamic itinerary and pricing recommendations.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![Amadeus](https://img.shields.io/badge/Amadeus_API-00205B?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**Problem it solves:** Automates the manual, multi-source research process of trip planning by using a Map-Reduce agent workflow to gather and reconcile data from the Amadeus and OpenAI APIs in parallel.
+**[→ View Repository](https://github.com/AryanRastogi72/Multi_Agent_AI_Travel_Planner)**
 
-**My contribution:** Solo project — designed and built end-to-end, including the agent workflow, API integrations, and data layer.
+</details>
 
-**Tech stack:** Python · LangGraph · Amadeus API · OpenAI API · SQLite
+<br/>
 
-**Links:** [Repository](https://github.com/AryanRastogi72/Multi_Agent_AI_Travel_Planner)
-
----
-
-## Current Focus
+## 🎯 Current Focus
 
 Wrapping up my LTTS internship and continuing to build across both hardware (FPGA/digital design) and software (full-stack, applied ML) rather than narrowing early. Open to internship and collaboration opportunities in embedded systems, full-stack development, or applied ML.
 
----
+<br/>
 
-## GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AryanRastogi72&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanRastogi72&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7" height="165" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AryanRastogi72/AryanRastogi72/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AryanRastogi72/AryanRastogi72/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/AryanRastogi72/AryanRastogi72/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=AryanRastogi72&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&count_private=true&cache_seconds=1800" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanRastogi72&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&cache_seconds=1800" height="165" />
 
 <img src="https://streak-stats.demolab.com/?user=AryanRastogi72&theme=radical&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=2E9EF7" />
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-**Let's connect** — [LinkedIn](https://www.linkedin.com/in/aryan-rastogi-742109382/) · [GitHub](https://github.com/AryanRastogi72) · [College Email](mailto:ar323@snu.edu.in) · [Personal Email](mailto:rastogiaryan2005@gmail.com)
+**Let's connect**
+
+<a href="https://www.linkedin.com/in/aryan-rastogi-742109382/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36"/></a>
+<a href="https://github.com/AryanRastogi72"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="36"/></a>
+<a href="mailto:ar323@snu.edu.in"><img src="https://img.shields.io/badge/College%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="36"/></a>
+<a href="mailto:rastogiaryan2005@gmail.com"><img src="https://img.shields.io/badge/Personal%20Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white" height="36"/></a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,50:2C5364,100:0F2027&height=90&section=footer"/>
 
