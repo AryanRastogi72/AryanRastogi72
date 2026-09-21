@@ -64,6 +64,20 @@ A full-stack university ERP with three role-based portals — Student, Faculty, 
 
 </details>
 
+<details open>
+<summary><b>🌍 WanderAI — Multi-Agent AI Travel Planner</b></summary>
+<br/>
+
+A conversational AI travel planner that coordinates real-time flight, hotel, restaurant, and activity data across Google APIs to generate dynamic, downloadable PDF itineraries. Automates the manual research process by utilizing three distinct, dynamically routable LangGraph agent personas (Flight/Hotel Planner, Restaurant Guide, Tour Guide) that share a unified persistent memory state via SQLite, wrapped in a responsive Streamlit UI.
+
+**Contribution:** Solo project — designed and built end-to-end, including the multi-agent router, tool integrations (SearchApi), memory state, and Streamlit frontend.
+
+**Stack:** Python · LangGraph · OpenAI API · Streamlit · SQLite · SearchApi
+
+**[→ View Repository](https://github.com/AryanRastogi72/WanderAI_Planner)**
+
+</details>
+
 <details>
 <summary><b>🔬 FSM-Based RFFT Spectrum Analyzer</b></summary>
 <br/>
@@ -89,20 +103,6 @@ A full-featured banking platform with distinct role-based access for Customers, 
 **Stack:** Python · Flask · MySQL · Jinja2
 
 **[→ View Repository](https://github.com/RaghavGarg3594/Online_Banking_Management_System)**
-
-</details>
-
-<details>
-<summary><b>✈️ Multi-Agent AI Travel Planner</b></summary>
-<br/>
-
-A multi-agent AI system that coordinates real-time flight and hotel data across 5+ API endpoints and generates dynamic itinerary and pricing recommendations. Automates the manual, multi-source research process of trip planning by using a Map-Reduce agent workflow to gather and reconcile data from the Amadeus and OpenAI APIs in parallel.
-
-**Contribution:** Solo project — designed and built end-to-end, including the agent workflow, API integrations, and data layer.
-
-**Stack:** Python · LangGraph · Amadeus API · OpenAI API · SQLite
-
-**[→ View Repository](https://github.com/AryanRastogi72/Multi_Agent_AI_Travel_Planner)**
 
 </details>
 
