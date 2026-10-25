@@ -51,16 +51,18 @@ Engineered an end-to-end stock prediction system evaluating 12 model variants (R
 ## 🚀 Featured Projects
 
 <details open>
-<summary><b>🎓 SARMS — University ERP System</b></summary>
+<summary><b>🎓 OnTrack — Academic Records & Analytics Platform</b></summary>
 <br/>
 
-A full-stack university ERP with three role-based portals — Student, Faculty, and Admin — covering authentication, academic records, and semester progression. Replaces fragmented, manual academic administration (grading, SGPA computation, semester promotion) with a single role-aware system.
+A full-stack university records system extended into an analytics product that helps students, faculty and admins act *before* results are final. Students see their CGPA trend and whether they're on pace to graduate; faculty get a "needs attention" list for their own courses with the reason behind every flag; admins see course pass rates, grade distributions and which features are actually used. All analytics run on clearly labelled demo data.
 
-**Contribution:** Built collaboratively with 3 teammates — worked across the stack alongside the team on both frontend and backend, rather than owning a single isolated module.
+**Product work:** Wrote the problem statement, personas and a PRD (10 user stories, MoSCoW priorities, success metrics, risks), then shipped all 6 Must/Should stories. Also found and fixed a password-reset flaw that allowed account takeover with only a user ID.
 
-**Stack:** React 19 · Spring Boot 3 · MongoDB · JWT · Tailwind CSS
+**Contribution:** Began as SARMS, a 4-person team project ([original repo](https://github.com/top-of-the-code/SARMS)) where I worked across the stack with 3 teammates. Everything since the fork — analytics, progress view, usage analytics, security fix, product docs and 22 unit tests — is my solo work.
 
-**[→ View Repository](https://github.com/top-of-the-code/SARMS)**
+**Stack:** React 19 · Spring Boot 3 · MongoDB · JWT · Recharts · Tailwind CSS
+
+**[→ View Repository](https://github.com/AryanRastogi72/OnTrack)**
 
 </details>
 
